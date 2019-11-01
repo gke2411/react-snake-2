@@ -1,0 +1,12 @@
+/node_modules
+/build
+/build/services.js
+/build/services.example.js
+/public/services.js
+/dist
+package-lock.json
+.package-lock.json
+.env
+omc-react-base.sublime-workspace
+
+.DS_Store
